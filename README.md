@@ -9,4 +9,4 @@ If you’re interested, you can access it using Tor: [Hidden Wiki Link](http://z
 
 ## Additional Resources
 - [Tor Project](https://www.torproject.org/)
-- [How to Access the Dark Web Safely](https://www.torproject.org/pt-BR/download/) (adicione links úteis se desejar)
+- [How to Access the Dark Web Safely](https://www.torproject.org/pt-BR/download/)
